@@ -1,0 +1,8 @@
+12:17:32,116 - [Form1]; DEBUG; Programma 'garage' iniziato; ; ; ; ; ; ; ; ; ; ; ; ; 
+12:17:35,934 - [Form1]; INFO; Click sul 'bottone1', apertura Form2; ; ; ; ; ; ; ; ; ; ; ; ; 
+12:17:54,155 - [Form2]; INFO; Primo garage creato con successo, ritorno al Form1; ; ; ; ; ; ; ; ; ; ; ; ;
+12:17:54,171 - [Form2]; INFO; Propietà primo garage; ; ; ; ;1;1;1;TuaMadreTroia; ; ; ;0;
+12:18:28,056 - [Form1]; INFO; Auto creata e parcheggiata con successo;0;1; ; ; ; ; ; ; ; ; ;0;
+12:18:28,072 - [Form1]; INFO; Moto creata e parcheggiata con successo; ; ;1; ; ; ; ; ; ; ; ;0;
+12:18:28,072 - [Form1]; INFO; Furgone creato e parcheggiato con successo; ; ; ;1; ; ; ; ; ; ; ;0;
+12:18:39,304 - [Form1]; INFO; Click sul menuItem 'garage grafico', apertura 'FormGarageGrafico'; ; ; ; ; ; ; ; ; ; ; ; ; 
